@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Shield Background -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M54,24 L76,32 C76,50 67,65 54,74 C41,65 32,50 32,32 Z" />
+        <!-- Shield Inner Accent -->
+        <path
+            android:fillColor="#047857"
+            android:pathData="M54,28 L72,34 C72,48 64,61 54,69 Z" />
+        <!-- Vault Dial / Central Circle -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,42 C48.5,42 44,46.5 44,52 C44,57.5 48.5,62 54,62 C59.5,62 64,57.5 64,52 C64,46.5 59.5,42 54,42 Z" />
+        <path
+            android:fillColor="#0B132B"
+            android:pathData="M54,45 C50.1,45 47,48.1 47,52 C47,55.9 50.1,59 54,59 C57.9,59 61,55.9 61,52 C61,48.1 57.9,45 54,45 Z" />
+        <!-- Keyhole / Dollar Mark in Center -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M53,48 L55,48 L55,50 C56.5,50.3 57.5,51.3 57.5,52.5 C57.5,54 56.2,54.8 54.5,55.2 L54.5,56.5 L53.5,56.5 L53.5,55.2 C52.2,54.9 51.5,54.1 51.5,53.2 L53.2,53.2 C53.3,53.8 53.8,54.1 54.5,54.1 C55.3,54.1 55.8,53.7 55.8,53 C55.8,52.4 55.3,52.1 54,51.7 C52.5,51.3 51.7,50.6 51.7,49.5 C51.7,48.4 52.6,47.5 53.8,47.2 L53.8,46 Z" />
+        <!-- Top Sync Orbit Arrow -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M54,16 C68,16 79,23 83,34 L78,34 C74.5,25.5 65,20 54,20 C46.5,20 39.8,22.8 35,27.5 L39,31.5 L26,33 L29,20 L32.5,23.5 C38,18.8 45.6,16 54,16 Z" />
+        <!-- Bottom Sync Orbit Arrow -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M54,92 C40,92 29,85 25,74 L30,74 C33.5,82.5 43,88 54,88 C61.5,88 68.2,85.2 73,80.5 L69,76.5 L82,75 L79,88 L75.5,84.5 C70,89.2 62.4,92 54,92 Z" />
+        <!-- Little Sparkle / Star for Success/Wealth -->
+        <path
+            android:fillColor="#FBBF24"
+            android:pathData="M78,16 L80,21 L85,23 L80,25 L78,30 L76,25 L71,23 L76,21 Z" />
+    </group>
+</vector>
